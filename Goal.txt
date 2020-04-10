@@ -1,0 +1,65 @@
+Core
+- VueJS
+- Babel - JS precompiler
+
+General
+- Good File Structure
+- Web Component - Custom HTML Elements
+- Axios Ajax Service one instance
+- Vuex for state management
+- vue loader with SASS
+
+Security
+- jwt token on cookie
+- handling security errors
+- login module (over HTTS)
+
+Performance
+- Application download
+    - Lazy loading
+- Application Performance
+
+REST
+- Integrating with REST statuses
+- Integrating with Server side validation errors
+
+Testing
+- Jest / Mocha for Unit Testing
+- What for End to End testing
+
+Hosting
+- NGINX
+- Proxying REST services
+
+
+Preferable External Component Libraries
+- BootstrapVue
+    - Layout
+    - Table
+    - Popup
+    - Date Picker
+
+Code Quality
+- ESLint
+-- Where are the code syntax guide for this
+
+Utility Modules
+- Login Module
+- File Upload Module
+
+Domain Modules
+- Claim Domain Modules
+- IDXM Modules
+- Customer Service Modules
+
+Cross Cutting Concerns
+- 
+
+Full Single Page Application as a micro frontend
+- 
+
+Source Code for JavaScript Applications
+-
+
+Integrating with existing Legacy Applications
+-
